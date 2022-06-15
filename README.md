@@ -1,1 +1,1 @@
-# Multiple-lineaar-rep
+# MultipleLinearRegression
